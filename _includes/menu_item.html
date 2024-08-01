@@ -9,10 +9,10 @@
                 {%- endif -%}
             </li>
 
-<!--             {%- if sub_item.profile_image -%}
-                <img src="https://github.com/Tianyang-Wang/Tianyang.wang-Nanjing/blob/master/images/profile.jpeg" alt="Profile Image" class="right-aligned">
-            {%- endif -%} -->
-            <img src="https://github.com/Tianyang-Wang/Tianyang.wang-Nanjing/blob/d25bc4232a4306fc39d25b1bd7562d1ee7af9510/images/profile.jpeg" alt="Profile Image" class="right-aligned">
+            {%- if sub_item.profile_image -%}
+                <img src="{{ site.baseurl }}{{ sub_item.profile_image }}" alt="Profile Image" class="right-aligned">
+            {%- endif -%}
+<!--             <img src="https://github.com/Tianyang-Wang/Tianyang.wang-Nanjing/blob/d25bc4232a4306fc39d25b1bd7562d1ee7af9510/images/profile.jpeg" alt="Profile Image" class="right-aligned"> -->
     
             {%- if sub_item.post_list -%}
                 {%
