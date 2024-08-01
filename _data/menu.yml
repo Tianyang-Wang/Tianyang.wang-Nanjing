@@ -12,8 +12,8 @@
       profile_image: images/profile.jpeg
     - title: Le site Web non mathématique
       post_list:
-      limit: 5
-      show_more_url: daily_life-archive.html
+        limit: 5
+        show_more_url: daily_life-archive.html
 
 
 
