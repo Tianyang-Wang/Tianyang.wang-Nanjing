@@ -2,11 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Sur Moi
-    profile_image: images/profile.jpeg
-    entries:
-      - title: "Le site Web non mathématique"
-      - title: "Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)"
+#  - title: Sur Moi
+#    profile_image: images/profile.jpeg
+#    entries:
+#      - title: "Le site Web non mathématique"
+#      - title: "Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)"
 
   - title: Le site Web non mathématique
     profile_image: images/profile.jpeg
