@@ -2,12 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  #- title: Sur Moi
-  #entries:
-  - title: Site Web non mathématique
-  
-  - title: Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)
+  - title: Sur Moi
     profile_image: images/profile.jpeg
+    entries:
+      - title: "Bienvenue sur le site Web personnel de Tianyang WANG"
+      - title: Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)
+      
   #    - title: github account
   #      url: https://github.com/TianyangWANG-SU
 
