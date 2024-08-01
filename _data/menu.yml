@@ -9,12 +9,13 @@ entries:
 #      - title: "Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)"
   - title: Le site Web non mathématique
     profile_image: images/profile.jpeg
+    profile_image: images/profile.jpeg
+    
+    profile_image: images/profile.jpeg
 
   Le site Web non mathématique
 
-      
-  #    - title: github account
-  #      url: https://github.com/TianyangWANG-SU
+
 
 
   # - title: another list
