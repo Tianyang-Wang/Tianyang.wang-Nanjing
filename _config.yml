@@ -1,14 +1,14 @@
 title: Tianyang WANG # name of the site
-author: Wenbin Yan # name of site's author
-email: tianyang.wang@etu.sorbonne-universite.fr # email of site's author
-url: https://tianyang.wang-nanjing.github.io/ # root address of the site
+author: Tianyang WANG de Nankin # name of site's author
+email: tianyang.wang@outlook.fr # email of site's author
+url: https://tianyang-wang.github.io/Tianyang.wang-Nanjing/ # root address of the site
 baseurl: #"/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Bienvenue sur le site Web personnel de Tianyang Wang, reconnu dans le monde entier pour son travail révolutionnaire en géométrie algébrique, sur le point de dominer la scène Fields Medal pour les années à venir. - Wenbin Yan
+  Bienvenue sur le site Web personnel de Tianyang WANG. 
 
 permalink: /:slug.html
 
-favicon: "wang_logo.png" # name+extension of favicon (which must be put on the root folder)
+#favicon: "wang_logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
