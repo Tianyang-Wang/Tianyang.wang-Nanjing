@@ -8,10 +8,9 @@ entries:
 #      - title: "Le site Web non mathématique"
 #      - title: "Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)"
     - title: "Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)"
-    #![](images/IMG_2020.jpeg)
-    profile_image: images/profile.jpeg
-  - title: Le site Web non mathématique
-    post_list:
+      profile_image: images/profile.jpeg
+    - title: Le site Web non mathématique
+      post_list:
       limit: 5
 
 
