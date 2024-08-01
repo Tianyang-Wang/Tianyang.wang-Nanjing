@@ -5,8 +5,8 @@ entries:
   #- title: Sur Moi
   profile_image: images/profile.jpeg
   entries:
-    - title: "Site Web non mathématique"
-    - title: "Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)"
+    - title: Site Web non mathématique
+    - title: Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)
   #    - title: github account
   #      url: https://github.com/TianyangWANG-SU
 
