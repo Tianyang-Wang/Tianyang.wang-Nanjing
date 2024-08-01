@@ -1,17 +1,19 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
 #  - title: Sur Moi
 #    profile_image: images/profile.jpeg
 #    entries:
 #      - title: "Le site Web non mathématique"
 #      - title: "Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)"
+
+  entries:
     - title: "Adresse e-mail: tianyang.wang[arobase]outlook.fr (remplaçez '[arobase]' avec @)"
       profile_image: images/profile.jpeg
     - title: Le site Web non mathématique
       post_list:
       limit: 5
+      show_more_url: daily_life-archive.html
 
 
 
